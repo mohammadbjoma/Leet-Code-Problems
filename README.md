@@ -49,7 +49,7 @@ cd Leet-Code-Problems/Arrays
 4. Test your own inputs by running the JS file:
 
 ```bash
-node problem-file.js
+node solution.js
 ```
 
 ---
